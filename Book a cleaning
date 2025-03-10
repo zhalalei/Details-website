@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Details Cleaning - Vancouver Island</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            text-align: center;
+        }
+        header {
+            background-color: #fff;
+            padding: 20px;
+        }
+        img {
+            max-width: 200px;
+        }
+        nav {
+            margin: 20px 0;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #333;
+            font-size: 18px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+            background: white;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            border-radius: 8px;
+        }
+        footer {
+            margin-top: 40px;
+            padding: 20px;
+            background: #fff;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="Untitled (1).png" alt="Details Cleaning Logo">
+        <h1>Welcome to Details Cleaning</h1>
+        <nav>
+            <a href="#services">Services</a>
+            <a href="#contact">Contact</a>
+            <a href="booking.html">Book Now</a>
+        </nav>
+    </header>
+    <div class="container" id="services">
+        <h2>Our Services</h2>
+        <p>We provide professional cleaning services across Vancouver Island. Our services include:</p>
+        <ul>
+            <li><strong>Residential Cleaning:</strong> Regular clean, deep clean, move-in/move-out cleaning.</li>
+            <li><strong>Commercial Cleaning:</strong> Office and business space cleaning.</li>
+            <li><strong>Vacation Rental Turnover:</strong> Airbnb, VRBO, and other short-term rental cleaning.</li>
+        </ul>
+    </div>
+    <div class="container" id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: contact@detailscleaning.com</p>
+        <p>Phone: (123) 456-7890</p>
+    </div>
+    <footer>
+        <p>&copy; 2025 Details Cleaning - Vancouver Island</p>
+    </footer>
+</body>
+</html>
